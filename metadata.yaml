@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25767
     wikipedia: http://en.wikipedia.org/wiki/Robert_F._Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23232#The-Servant-Problem
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-29'
 gutenberg_type: Text
